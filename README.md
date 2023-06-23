@@ -14,9 +14,6 @@ Make it responsive
 
 Install the dependencies with npm
 
-```bash
-  git clone https://github.com/Abhi2474/Heliverse-assignment.git
-```
 
 ## Installation
 
